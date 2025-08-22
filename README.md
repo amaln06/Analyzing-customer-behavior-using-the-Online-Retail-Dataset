@@ -1,4 +1,4 @@
-# Analyzing customer-behavior using the Online-Retail Dataset
+# Customer Segmentation using RFM Analysis 
 # Description
 This task involves analyzing customer behavior using the Online Retail Dataset (UCI) through RFM Analysis, which evaluates:
 •	Recency – How recently a customer made a purchase
